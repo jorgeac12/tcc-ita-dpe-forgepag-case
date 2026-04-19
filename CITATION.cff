@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Se este repositório for utilizado, cite o artigo principal listado em preferred-citation e referencie este repositório como anexo do artigo."
+title: "Material complementar ao TCC: caso aplicado ForgePag para avaliação do método DPE"
+abstract: "Repositório anexo ao artigo de Trabalho de Conclusão de Curso que avalia o método DPE (Decisão, Pergunta, Evidência) no caso aplicado da fintech fictícia ForgePag, contendo Documento de Requisitos de Produto, detalhamento das decisões profundas (fraude no PIX, retenção de cliente e priorização da fila de atendimento), catálogo de dados e features, matrizes DPE preenchidas, expansão das tabelas e descrição textual das figuras do artigo principal."
+type: dataset
+authors:
+  - family-names: "Oliveira"
+    given-names: "Jorge Kennedy S."
+    affiliation: "Instituto Tecnológico de Aeronáutica (ITA)"
+    email: "jorgeoliveira@ita.br"
+repository-code: "https://github.com/jorgeac12/tcc-ita-dpe-forgepag-case"
+license: MIT
+keywords:
+  - "decisão automatizada"
+  - "inteligência artificial"
+  - "qualidade de dados"
+  - "tempestividade"
+  - "método DPE"
+  - "fintech"
+  - "PIX"
+  - "caso aplicado"
+preferred-citation:
+  type: conference-paper
+  title: "Método DPE para geração de valor mensurável em decisões automatizadas por inteligência artificial: confiabilidade, tempestividade e conexão com métricas de negócio"
+  authors:
+    - family-names: "Oliveira"
+      given-names: "Jorge Kennedy S."
+      affiliation: "Instituto Tecnológico de Aeronáutica (ITA)"
+      email: "jorgeoliveira@ita.br"
+    - family-names: "Polotto"
+      given-names: "João Paulo L. S."
+      affiliation: "Instituto Tecnológico de Aeronáutica (ITA)"
+      email: "joaojplsp@ita.br"
+    - family-names: "Marques"
+      given-names: "Johnny Cardoso"
+      affiliation: "Instituto Tecnológico de Aeronáutica (ITA)"
+      email: "johnny@ita.br"
+  year: 2026
+  collection-title: "Anais do Trabalho de Conclusão de Curso do programa CEDS"
+  publisher:
+    name: "Sociedade Brasileira de Computação (SBC)"
