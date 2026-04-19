@@ -15,7 +15,7 @@ ForgePag é uma fintech brasileira fictícia, concebida como ambiente de avalia�
 O artigo SBC apresenta, na Seção 4, o escopo, a aplicação e os resultados consolidados do caso ForgePag. Este repositório complementa o artigo com os seguintes materiais:
 
 - Documento de Requisitos de Produto (*Product Requirements Document*, PRD) completo do caso simulado.
-- Detalhamento individual das decisões profundas analisadas (detecção de fraude no PIX, retenção de cliente e priorização da fila de atendimento).
+- Detalhamento individual das duas decisões profundas analisadas (detecção de fraude no PIX e acionamento proativo de retenção de cliente) e da decisão comparativa (priorização da fila de atendimento).
 - Catálogo expandido de dados e *features* utilizados como evidência na aplicação do método DPE.
 - Matrizes DPE preenchidas na íntegra, incluindo a composição com os pilares de confiabilidade e tempestividade.
 - Expansão das tabelas apresentadas no artigo e descrição textual das figuras, destinada a servir como fonte para construção visual.
