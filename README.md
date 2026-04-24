@@ -12,7 +12,7 @@ ForgePag é uma fintech brasileira fictícia, concebida como ambiente de avalia�
 
 ## Como este repositório se relaciona com o artigo
 
-O artigo SBC apresenta, na Seção 4, a aplicação e os resultados consolidados do caso ForgePag, estruturada em três subseções: Seção 4.1 (detecção de fraude em PIX), Seção 4.2 (acionamento proativo de retenção) e Seção 4.3 (discussão, limitações e material complementar). Este repositório complementa o artigo com os seguintes materiais:
+O artigo SBC apresenta, na Seção 4, a aplicação e os resultados consolidados do caso ForgePag, estruturada em três subseções: Seção 4.1 (detecção de fraude em PIX), Seção 4.2 (acionamento proativo de retenção) e Seção 4.3 (discussão, limitações e material complementar). A URL deste repositório é citada na abertura da Seção 4 do artigo. Este repositório complementa o artigo com os seguintes materiais:
 
 - Documento de Requisitos de Produto (*Product Requirements Document*, PRD) completo do caso simulado.
 - Detalhamento individual das duas decisões profundas analisadas: detecção de fraude em transação PIX e acionamento proativo de retenção para clientes com sinal de *churn*.
@@ -34,6 +34,8 @@ tcc-ita-dpe-forgepag-case/
 │   └── 06-matriz-dpe-ct-completa.md    # Matrizes DPE×CT preenchidas + contraste
 ├── figuras/
 │   ├── README.md                       # Inventário e descrição das figuras
+│   ├── fig01-cadeia-decisao-automatizada.png # Figura 1 do artigo
+│   ├── fig02-matriz-dpe-ct.png         # Figura 2 do artigo
 │   ├── fig03-timeline-fraude-pix.png   # Figura 3 do artigo
 │   ├── fig04-timeline-retencao.png     # Figura 4 do artigo
 │   └── fig05-composicao-healthy-score.png # Figura 5 do artigo

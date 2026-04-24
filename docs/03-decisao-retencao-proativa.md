@@ -32,7 +32,7 @@ Sete perguntas formais são respondidas simultaneamente durante o ciclo de scori
 
 ---
 
-## 3. Camada E (Evidência) — as sete famílias de data points
+## 3. Camada E (Evidência) — as sete famílias de *data points*
 
 ### Família 1 — Engajamento transacional (responde P1)
 

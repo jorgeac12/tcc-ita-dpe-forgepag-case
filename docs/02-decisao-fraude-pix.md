@@ -200,7 +200,7 @@ O cenário contrafactual usado para atribuir valor à decisão automatizada é a
 
 ### Critérios de confiabilidade aplicados
 
-A Tabela 2 do artigo apresenta exemplos concretos derivados deste material. Exemplos de célula:
+A Tabela 3 do artigo apresenta exemplos concretos derivados deste material. Exemplos de célula:
 
 - **Estágio 2 (Ingestão) × *Freshness*:** latência máxima aceitável de 50ms entre evento PIX e disponibilidade na *feature store* tempo real
 - **Estágio 5 (Inferência) × *Distribution*:** distribuição das predições do modelo é monitorada por janela de 1 hora; desvio > 2σ aciona alerta
